@@ -1,3 +1,15 @@
+#Nome: Vinícius Neves Corrêa
+#RM: 98392
+
+#Nome: João Pedro Lima Rodrigues
+#RM: 99521
+
+#Nome: Daniel Neves França
+#RM: 550912
+
+#Nome: Danilo Chichinato Yoshihara
+#RM: 98736
+
 def calcular_valor_total(ano_uso, valor_maco, quant_macos_dia):
     dias_uso = ano_uso * 12 * 30
     valor_dia_maco = valor_maco * quant_macos_dia
